@@ -1,4 +1,4 @@
-```markdown
+
 # NATNOT---Generative-AI
 > Unleash the Power of Generative AI for Creative Solutions
 
